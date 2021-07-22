@@ -32,8 +32,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
     
 
 
-    UPGRADE_TEXT = "<b>👉 NOTHING MORE. </b>  \n\n<a href='https://t.me/np_technology
-'>Click here,!!</a>"
+ 
     
     DOWNLOAD_START = "Trying to download your file from Web..."
     
