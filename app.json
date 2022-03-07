@@ -1,14 +1,14 @@
 {
   "name": "URL Uploader",
-  "description": "Telegram's Open Source URL Uploader Bot. Create your Fork now.",
+  "description": "DRM Downloader Telegramic Bot!",
   "keywords": [
     "telegram",
     "url",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/prgofficial",
-  "repository": "https://github.com/prgofficial/URLuploader-With-Hotstar",
+  "success_url": "https://github.com/TheCaduceus",
+  "website": "https://github.com/TheCaduceus",
+  "repository": "https://github.com/TheCaduceus",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
