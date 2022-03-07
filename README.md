@@ -12,3 +12,5 @@ pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
 ```
+### Copyright
+<b>Do anything, we just made this Bot by simply uploading the already available Modules on Internet.</b>
