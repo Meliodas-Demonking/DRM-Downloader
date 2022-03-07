@@ -2,13 +2,13 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Telegram URL Upload Bot!
+I am a Telegram Uploader Bot! Developed by Dr.Caduceus and TroJanzHEX
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @NP_technology
+Support Group : https://t.me/DrTorrent
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -21,7 +21,7 @@ Support Group : @NP_technology
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @NP_technology
+Support Group : https://t.me/DrTorrent
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
